@@ -1,0 +1,4 @@
+name: NooniesBot
+version: '${project.version}'
+main: me.skinnynoonie.nooniesbot.Main
+api-version: 1.19
